@@ -1,0 +1,20 @@
+[
+    {
+        "aliases": [
+            "telegram",
+            "tg",
+            "телеграм",
+            "тг"
+        ],
+        "url": "https://t.me/nncast"
+    },
+    {
+        "aliases": [
+            "youtube",
+            "yt",
+            "ютуб",
+            "ют"
+        ],
+        "url": "https://www.youtube.com/@nn-cast"
+    }
+]

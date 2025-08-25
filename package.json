@@ -1,14 +1,19 @@
 {
-  "name": "",
+  "name": "nncast",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "host": "astro dev --host"
   },
   "dependencies": {
-    "astro": "^5.13.3"
+    "@astrojs/sitemap": "^3.5.1",
+    "@tailwindcss/vite": "^4.1.12",
+    "astro": "^5.13.3",
+    "dayjs": "^1.11.13",
+    "tailwindcss": "^4.1.12"
   }
 }
